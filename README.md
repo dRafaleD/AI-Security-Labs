@@ -11,6 +11,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 ## Labs
 
 - [Day 1 — How LLM Applications Work: Models, Prompts, Context, Tokens and Trust Boundaries](labs/01-llm-applications-and-trust-boundaries/notes.md)
+- [Day 2 — Prompt Injection, Indirect Prompt Injection and Instruction/Data Separation](labs/02-prompt-injection-and-instruction-data-separation/notes.md)
 
 ## Learning path
 
@@ -52,6 +53,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 ## Lab'ler
 
 - [Gün 1 — LLM Uygulamaları Nasıl Çalışır: Model, Prompt, Context, Token ve Trust Boundary](labs/01-llm-applications-and-trust-boundaries/notes.tr.md)
+- [Gün 2 — Prompt Injection, Indirect Prompt Injection ve Instruction/Data Ayrımı](labs/02-prompt-injection-and-instruction-data-separation/notes.tr.md)
 
 ## Öğrenme yolu
 
