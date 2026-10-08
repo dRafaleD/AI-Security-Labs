@@ -13,6 +13,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 1 — How LLM Applications Work: Models, Prompts, Context, Tokens and Trust Boundaries](labs/01-llm-applications-and-trust-boundaries/notes.md)
 - [Day 2 — Prompt Injection, Indirect Prompt Injection and Instruction/Data Separation](labs/02-prompt-injection-and-instruction-data-separation/notes.md)
 - [Day 3 — RAG Security, Retrieval Trust, Source Provenance and Data Isolation](labs/03-rag-security-provenance-and-isolation/notes.md)
+- [Day 4 — Agent Security, Tool Permissions, Authorization and Human Confirmation](labs/04-agent-security-tool-permissions-and-confirmation/notes.md)
 
 ## Learning path
 
@@ -56,6 +57,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 1 — LLM Uygulamaları Nasıl Çalışır: Model, Prompt, Context, Token ve Trust Boundary](labs/01-llm-applications-and-trust-boundaries/notes.tr.md)
 - [Gün 2 — Prompt Injection, Indirect Prompt Injection ve Instruction/Data Ayrımı](labs/02-prompt-injection-and-instruction-data-separation/notes.tr.md)
 - [Gün 3 — RAG Güvenliği, Retrieval Trust, Source Provenance ve Data Isolation](labs/03-rag-security-provenance-and-isolation/notes.tr.md)
+- [Gün 4 — Agent Güvenliği, Tool Permission, Authorization ve Human Confirmation](labs/04-agent-security-tool-permissions-and-confirmation/notes.tr.md)
 
 ## Öğrenme yolu
 
