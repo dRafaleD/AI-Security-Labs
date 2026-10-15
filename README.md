@@ -16,6 +16,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 4 — Agent Security, Tool Permissions, Authorization and Human Confirmation](labs/04-agent-security-tool-permissions-and-confirmation/notes.md)
 - [Day 5 — MCP, Connector Security, Tool Discovery and Permission Boundaries](labs/05-mcp-connectors-and-tool-trust/notes.md)
 - [Day 6 — Untrusted Model Output, Schema Validation and Safe Rendering](labs/06-untrusted-model-output-schema-and-safe-rendering/notes.md)
+- [Day 7 — LLM Security Evaluations, Adversarial Test Cases and Regression Gates](labs/07-security-evaluations-and-regression-gates/notes.md)
 
 ## Learning path
 
@@ -62,6 +63,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 4 — Agent Güvenliği, Tool Permission, Authorization ve Human Confirmation](labs/04-agent-security-tool-permissions-and-confirmation/notes.tr.md)
 - [Gün 5 — MCP, Connector Güvenliği, Tool Discovery ve Yetki Sınırları](labs/05-mcp-connectors-and-tool-trust/notes.tr.md)
 - [Gün 6 — Güvensiz Model Çıktıları, JSON Schema ve Güvenli Rendering](labs/06-untrusted-model-output-schema-and-safe-rendering/notes.tr.md)
+- [Gün 7 — LLM Güvenlik Değerlendirmesi, Saldırgan Test Vakaları ve Regression Kontrolleri](labs/07-security-evaluations-and-regression-gates/notes.tr.md)
 
 ## Öğrenme yolu
 
