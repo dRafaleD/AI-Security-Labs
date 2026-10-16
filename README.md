@@ -19,6 +19,8 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 7 — LLM Security Evaluations, Adversarial Test Cases and Regression Gates](labs/07-security-evaluations-and-regression-gates/notes.md)
 - [Day 8 — Sensitive Data Exposure, Secret Minimization and Tool Output Boundaries](labs/08-secret-minimization-and-sensitive-tool-output/notes.md)
 
+- [Day 9 — RAG Poisoning, Source Provenance and Regression Tests](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -66,6 +68,8 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 6 — Güvensiz Model Çıktıları, JSON Schema ve Güvenli Rendering](labs/06-untrusted-model-output-schema-and-safe-rendering/notes.tr.md)
 - [Gün 7 — LLM Güvenlik Değerlendirmesi, Saldırgan Test Vakaları ve Regression Kontrolleri](labs/07-security-evaluations-and-regression-gates/notes.tr.md)
 - [Gün 8 — Hassas Veri Sızıntısı, Secret Minimization ve Tool Çıktısı Sınırları](labs/08-secret-minimization-and-sensitive-tool-output/notes.tr.md)
+
+- [Gün 9 — RAG Zehirlenmesi, Kaynak Kökeni ve Regresyon Testleri](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.tr.md)
 
 ## Öğrenme yolu
 
