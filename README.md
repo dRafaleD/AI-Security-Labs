@@ -21,6 +21,8 @@ The goal is to understand how modern LLM applications are structured, where trus
 
 - [Day 9 — RAG Poisoning, Source Provenance and Regression Tests](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.md)
 
+- [Day 10 — Agent Approval Gates, Argument Validation and Replay Protection](labs/10-10-agent-approval-gates-and-replay-protection/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -70,6 +72,8 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 8 — Hassas Veri Sızıntısı, Secret Minimization ve Tool Çıktısı Sınırları](labs/08-secret-minimization-and-sensitive-tool-output/notes.tr.md)
 
 - [Gün 9 — RAG Zehirlenmesi, Kaynak Kökeni ve Regresyon Testleri](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.tr.md)
+
+- [Gün 10 — Agent Onay Kapıları, Parametre Doğrulama ve Tekrar Oynatma Koruması](labs/10-10-agent-approval-gates-and-replay-protection/notes.tr.md)
 
 ## Öğrenme yolu
 
