@@ -23,6 +23,8 @@ The goal is to understand how modern LLM applications are structured, where trus
 
 - [Day 10 — Agent Approval Gates, Argument Validation and Replay Protection](labs/10-10-agent-approval-gates-and-replay-protection/notes.md)
 
+- [Day 11 — LLM Output Validation and Prompt-Injection Regression Gates](labs/11-llm-output-validation-and-injection-regression/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -74,6 +76,8 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 9 — RAG Zehirlenmesi, Kaynak Kökeni ve Regresyon Testleri](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.tr.md)
 
 - [Gün 10 — Agent Onay Kapıları, Parametre Doğrulama ve Tekrar Oynatma Koruması](labs/10-10-agent-approval-gates-and-replay-protection/notes.tr.md)
+
+- [Gün 11 — LLM Çıktı Doğrulama ve Prompt Injection Regresyon Kontrolleri](labs/11-llm-output-validation-and-injection-regression/notes.tr.md)
 
 ## Öğrenme yolu
 
