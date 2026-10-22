@@ -31,6 +31,8 @@ The goal is to understand how modern LLM applications are structured, where trus
 
 - [Day 14 — Agent Loop Controls, Tool Budgets and Fail-Closed Policies](labs/14-tool-call-budgets-and-agent-loop-controls/notes.md)
 
+- [Day 15 — Prompt Injection Taint Tracking and Safe Tool Routing](labs/15-prompt-injection-taint-and-tool-routing/notes.md)
+
 ## Learning path
 
 Future labs will gradually cover:
@@ -90,6 +92,8 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 13 — LLM Denetim Günlükleri, Maskeleme ve Veri Minimizasyonu](labs/13-llm-audit-logging-and-data-minimization/notes.tr.md)
 
 - [Gün 14 — Agent Döngü Kontrolü, Araç Bütçeleri ve Kapalı-Hata İlkesi](labs/14-tool-call-budgets-and-agent-loop-controls/notes.tr.md)
+
+- [Gün 15 — Prompt Injection Veri Kaynağı Takibi ve Güvenli Araç Yönlendirme](labs/15-prompt-injection-taint-and-tool-routing/notes.tr.md)
 
 ## Öğrenme yolu
 
