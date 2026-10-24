@@ -127,3 +127,9 @@ Amaç prompt hilesi ezberlemek değil; verinin nereden geldiğini, hangi compone
 ## Güvenlik ve etik
 
 AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için açık izin aldığınız sistem, uygulama, prompt, model ve ortamlarda gerçekleştirin. Training lab'lerine gerçek secret veya hassas kişisel veri koymayın.
+
+
+## Latest lab
+
+- **Day 16 — RAG Access Control and Tenant Isolation**
+- [English notes](labs/16-rag-access-control-and-tenant-isolation/notes.md) · [Türkçe notlar](labs/16-rag-access-control-and-tenant-isolation/notes.tr.md) · [Practical exercise](labs/16-rag-access-control-and-tenant-isolation/rag_access_control_demo.py)
