@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 16 — RAG Access Control and Tenant Isolation**
-- [English notes](labs/16-rag-access-control-and-tenant-isolation/notes.md) · [Türkçe notlar](labs/16-rag-access-control-and-tenant-isolation/notes.tr.md) · [Practical exercise](labs/16-rag-access-control-and-tenant-isolation/rag_access_control_demo.py)
+- **Day 17 — LLM Output Redaction and Secret Leakage**
+- [English notes](labs/17-llm-output-redaction-and-secret-leakage/notes.md) · [Türkçe notlar](labs/17-llm-output-redaction-and-secret-leakage/notes.tr.md) · [Practical exercise](labs/17-llm-output-redaction-and-secret-leakage/redaction_demo.py)
