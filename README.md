@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 17 — LLM Output Redaction and Secret Leakage**
-- [English notes](labs/17-llm-output-redaction-and-secret-leakage/notes.md) · [Türkçe notlar](labs/17-llm-output-redaction-and-secret-leakage/notes.tr.md) · [Practical exercise](labs/17-llm-output-redaction-and-secret-leakage/redaction_demo.py)
+- **Day 18 — Tool-Call Argument Schema Validation**
+- [English notes](labs/18-tool-call-argument-schema-validation/notes.md) · [Türkçe notlar](labs/18-tool-call-argument-schema-validation/notes.tr.md) · [Practical exercise](labs/18-tool-call-argument-schema-validation/schema_demo.py)
