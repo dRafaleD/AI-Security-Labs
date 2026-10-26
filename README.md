@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 18 — Tool-Call Argument Schema Validation**
-- [English notes](labs/18-tool-call-argument-schema-validation/notes.md) · [Türkçe notlar](labs/18-tool-call-argument-schema-validation/notes.tr.md) · [Practical exercise](labs/18-tool-call-argument-schema-validation/schema_demo.py)
+- **Day 19 — Object-Level Authorization for Tool Calls**
+- [English notes](labs/19-object-level-authorization-for-tool-calls/notes.md) · [Türkçe notlar](labs/19-object-level-authorization-for-tool-calls/notes.tr.md) · [Practical exercise](labs/19-object-level-authorization-for-tool-calls/authz_demo.py)
