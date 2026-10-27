@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 19 — Object-Level Authorization for Tool Calls**
-- [English notes](labs/19-object-level-authorization-for-tool-calls/notes.md) · [Türkçe notlar](labs/19-object-level-authorization-for-tool-calls/notes.tr.md) · [Practical exercise](labs/19-object-level-authorization-for-tool-calls/authz_demo.py)
+- **Day 20 — Safe Rendering of Model Output**
+- [English notes](labs/20-model-output-rendering-safety/notes.md) · [Türkçe notlar](labs/20-model-output-rendering-safety/notes.tr.md) · [Practical exercise](labs/20-model-output-rendering-safety/render_demo.py)
