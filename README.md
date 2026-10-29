@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 20 — Safe Rendering of Model Output**
-- [English notes](labs/20-model-output-rendering-safety/notes.md) · [Türkçe notlar](labs/20-model-output-rendering-safety/notes.tr.md) · [Practical exercise](labs/20-model-output-rendering-safety/render_demo.py)
+- **Day 21 — Guardrail Regression Sets, Precision and Recall**
+- [English notes](labs/21-guardrail-regression-sets-and-precision-recall/notes.md) · [Türkçe notlar](labs/21-guardrail-regression-sets-and-precision-recall/notes.tr.md) · [Practical exercise](labs/21-guardrail-regression-sets-and-precision-recall/guardrail_eval.py)
