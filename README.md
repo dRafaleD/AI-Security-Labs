@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 27 — Refusal and Safe-Failure Regression Tests**
-- [English notes](labs/27-refusal-and-safe-failure-regression-tests/notes.md) · [Türkçe notlar](labs/27-refusal-and-safe-failure-regression-tests/notes.tr.md) · [Practical exercise](labs/27-refusal-and-safe-failure-regression-tests/refusal_tests_demo.py)
+- **Day 28 — Tool Output Truncation and Data Wrapping**
+- [English notes](labs/28-tool-output-truncation-and-data-wrapping/notes.md) · [Türkçe notlar](labs/28-tool-output-truncation-and-data-wrapping/notes.tr.md) · [Practical exercise](labs/28-tool-output-truncation-and-data-wrapping/truncate_demo.py)
