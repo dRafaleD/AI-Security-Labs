@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 21 — Guardrail Regression Sets, Precision and Recall**
-- [English notes](labs/21-guardrail-regression-sets-and-precision-recall/notes.md) · [Türkçe notlar](labs/21-guardrail-regression-sets-and-precision-recall/notes.tr.md) · [Practical exercise](labs/21-guardrail-regression-sets-and-precision-recall/guardrail_eval.py)
+- **Day 22 — Canary Tokens and System Prompt Leak Detection**
+- [English notes](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.md) · [Türkçe notlar](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.tr.md) · [Practical exercise](labs/22-canary-tokens-and-system-prompt-leak-detection/canary_demo.py)
