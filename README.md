@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 23 — Rate Limiting and Cost Abuse for LLM Endpoints**
-- [English notes](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.md) · [Türkçe notlar](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.tr.md) · [Practical exercise](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/bucket_demo.py)
+- **Day 24 — PII Detection and Masking Before Logging**
+- [English notes](labs/24-pii-detection-and-masking-before-logging/notes.md) · [Türkçe notlar](labs/24-pii-detection-and-masking-before-logging/notes.tr.md) · [Practical exercise](labs/24-pii-detection-and-masking-before-logging/mask_demo.py)
