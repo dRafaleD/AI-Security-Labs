@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 26 — Model and Config Pinning with Drift Checks**
-- [English notes](labs/26-model-and-config-pinning-with-drift-checks/notes.md) · [Türkçe notlar](labs/26-model-and-config-pinning-with-drift-checks/notes.tr.md) · [Practical exercise](labs/26-model-and-config-pinning-with-drift-checks/drift_demo.py)
+- **Day 27 — Refusal and Safe-Failure Regression Tests**
+- [English notes](labs/27-refusal-and-safe-failure-regression-tests/notes.md) · [Türkçe notlar](labs/27-refusal-and-safe-failure-regression-tests/notes.tr.md) · [Practical exercise](labs/27-refusal-and-safe-failure-regression-tests/refusal_tests_demo.py)
