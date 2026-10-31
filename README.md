@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 22 — Canary Tokens and System Prompt Leak Detection**
-- [English notes](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.md) · [Türkçe notlar](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.tr.md) · [Practical exercise](labs/22-canary-tokens-and-system-prompt-leak-detection/canary_demo.py)
+- **Day 23 — Rate Limiting and Cost Abuse for LLM Endpoints**
+- [English notes](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.md) · [Türkçe notlar](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.tr.md) · [Practical exercise](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/bucket_demo.py)
