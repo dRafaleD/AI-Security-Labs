@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 24 — PII Detection and Masking Before Logging**
-- [English notes](labs/24-pii-detection-and-masking-before-logging/notes.md) · [Türkçe notlar](labs/24-pii-detection-and-masking-before-logging/notes.tr.md) · [Practical exercise](labs/24-pii-detection-and-masking-before-logging/mask_demo.py)
+- **Day 25 — Allow-Listed URL Fetch Tools for Agents**
+- [English notes](labs/25-allowlisted-url-fetch-tools-for-agents/notes.md) · [Türkçe notlar](labs/25-allowlisted-url-fetch-tools-for-agents/notes.tr.md) · [Practical exercise](labs/25-allowlisted-url-fetch-tools-for-agents/fetch_policy_demo.py)
