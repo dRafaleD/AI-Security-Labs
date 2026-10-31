@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 25 — Allow-Listed URL Fetch Tools for Agents**
-- [English notes](labs/25-allowlisted-url-fetch-tools-for-agents/notes.md) · [Türkçe notlar](labs/25-allowlisted-url-fetch-tools-for-agents/notes.tr.md) · [Practical exercise](labs/25-allowlisted-url-fetch-tools-for-agents/fetch_policy_demo.py)
+- **Day 26 — Model and Config Pinning with Drift Checks**
+- [English notes](labs/26-model-and-config-pinning-with-drift-checks/notes.md) · [Türkçe notlar](labs/26-model-and-config-pinning-with-drift-checks/notes.tr.md) · [Practical exercise](labs/26-model-and-config-pinning-with-drift-checks/drift_demo.py)
