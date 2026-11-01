@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 28 — Tool Output Truncation and Data Wrapping**
-- [English notes](labs/28-tool-output-truncation-and-data-wrapping/notes.md) · [Türkçe notlar](labs/28-tool-output-truncation-and-data-wrapping/notes.tr.md) · [Practical exercise](labs/28-tool-output-truncation-and-data-wrapping/truncate_demo.py)
+- **Day 29 — Context Trimming and System Prompt Preservation**
+- [English notes](labs/29-context-trimming-and-system-prompt-preservation/notes.md) · [Türkçe notlar](labs/29-context-trimming-and-system-prompt-preservation/notes.tr.md) · [Practical exercise](labs/29-context-trimming-and-system-prompt-preservation/trim_demo.py)
