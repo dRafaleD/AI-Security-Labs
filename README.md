@@ -133,3 +133,7 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 - **Day 30 — Agent Memory Write Policy and Poisoning Checks**
 - [English notes](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md) · [Türkçe notlar](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md) · [Practical exercise](labs/30-agent-memory-write-policy-and-poisoning-checks/memory_policy_demo.py)
+
+### Day 17 — Tool Output Prompt Injection
+
+[English notes](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.md) · [Türkçe notlar](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.tr.md) · [Offline Python demo](labs/17-tool-output-prompt-injection-and-trust-boundaries/tool_output_boundary_demo.py)
