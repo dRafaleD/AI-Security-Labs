@@ -18,20 +18,29 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 6 — Untrusted Model Output, Schema Validation and Safe Rendering](labs/06-untrusted-model-output-schema-and-safe-rendering/notes.md)
 - [Day 7 — LLM Security Evaluations, Adversarial Test Cases and Regression Gates](labs/07-security-evaluations-and-regression-gates/notes.md)
 - [Day 8 — Sensitive Data Exposure, Secret Minimization and Tool Output Boundaries](labs/08-secret-minimization-and-sensitive-tool-output/notes.md)
-
 - [Day 9 — RAG Poisoning, Source Provenance and Regression Tests](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.md)
-
 - [Day 10 — Agent Approval Gates, Argument Validation and Replay Protection](labs/10-10-agent-approval-gates-and-replay-protection/notes.md)
-
 - [Day 11 — LLM Output Validation and Prompt-Injection Regression Gates](labs/11-llm-output-validation-and-injection-regression/notes.md)
-
 - [Day 12 — Tool Result Provenance, Citation Checks and Grounding](labs/12-tool-result-provenance-and-grounding/notes.md)
-
 - [Day 13 — LLM Audit Logging, Redaction and Data Minimization](labs/13-llm-audit-logging-and-data-minimization/notes.md)
-
 - [Day 14 — Agent Loop Controls, Tool Budgets and Fail-Closed Policies](labs/14-tool-call-budgets-and-agent-loop-controls/notes.md)
-
 - [Day 15 — Prompt Injection Taint Tracking and Safe Tool Routing](labs/15-prompt-injection-taint-and-tool-routing/notes.md)
+- [Day 16 — RAG Access Control And Tenant Isolation](labs/16-rag-access-control-and-tenant-isolation/notes.md)
+- [Day 17 — LLM Output Redaction And Secret Leakage](labs/17-llm-output-redaction-and-secret-leakage/notes.md)
+- [Bonus — Day 17 — Tool Output Prompt Injection And Trust Boundaries](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.md)
+- [Day 18 — Tool Call Argument Schema Validation](labs/18-tool-call-argument-schema-validation/notes.md)
+- [Day 19 — Object Level Authorization For Tool Calls](labs/19-object-level-authorization-for-tool-calls/notes.md)
+- [Day 20 — Model Output Rendering Safety](labs/20-model-output-rendering-safety/notes.md)
+- [Day 21 — Guardrail Regression Sets And Precision Recall](labs/21-guardrail-regression-sets-and-precision-recall/notes.md)
+- [Day 22 — Canary Tokens And System Prompt Leak Detection](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.md)
+- [Day 23 — Rate Limiting And Cost Abuse For LLM Endpoints](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.md)
+- [Day 24 — PII Detection And Masking Before Logging](labs/24-pii-detection-and-masking-before-logging/notes.md)
+- [Day 25 — Allowlisted URL Fetch Tools For Agents](labs/25-allowlisted-url-fetch-tools-for-agents/notes.md)
+- [Day 26 — Model And Config Pinning With Drift Checks](labs/26-model-and-config-pinning-with-drift-checks/notes.md)
+- [Day 27 — Refusal And Safe Failure Regression Tests](labs/27-refusal-and-safe-failure-regression-tests/notes.md)
+- [Day 28 — Tool Output Truncation And Data Wrapping](labs/28-tool-output-truncation-and-data-wrapping/notes.md)
+- [Day 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.md)
+- [Day 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md)
 
 ## Learning path
 
@@ -80,20 +89,29 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 6 — Güvensiz Model Çıktıları, JSON Schema ve Güvenli Rendering](labs/06-untrusted-model-output-schema-and-safe-rendering/notes.tr.md)
 - [Gün 7 — LLM Güvenlik Değerlendirmesi, Saldırgan Test Vakaları ve Regression Kontrolleri](labs/07-security-evaluations-and-regression-gates/notes.tr.md)
 - [Gün 8 — Hassas Veri Sızıntısı, Secret Minimization ve Tool Çıktısı Sınırları](labs/08-secret-minimization-and-sensitive-tool-output/notes.tr.md)
-
 - [Gün 9 — RAG Zehirlenmesi, Kaynak Kökeni ve Regresyon Testleri](labs/09-rag-poisoning-source-provenance-and-evaluation/notes.tr.md)
-
 - [Gün 10 — Agent Onay Kapıları, Parametre Doğrulama ve Tekrar Oynatma Koruması](labs/10-10-agent-approval-gates-and-replay-protection/notes.tr.md)
-
 - [Gün 11 — LLM Çıktı Doğrulama ve Prompt Injection Regresyon Kontrolleri](labs/11-llm-output-validation-and-injection-regression/notes.tr.md)
-
 - [Gün 12 — Araç Çıktısı Kaynağı, Atıf Denetimi ve Dayanak Kontrolü](labs/12-tool-result-provenance-and-grounding/notes.tr.md)
-
 - [Gün 13 — LLM Denetim Günlükleri, Maskeleme ve Veri Minimizasyonu](labs/13-llm-audit-logging-and-data-minimization/notes.tr.md)
-
 - [Gün 14 — Agent Döngü Kontrolü, Araç Bütçeleri ve Kapalı-Hata İlkesi](labs/14-tool-call-budgets-and-agent-loop-controls/notes.tr.md)
-
 - [Gün 15 — Prompt Injection Veri Kaynağı Takibi ve Güvenli Araç Yönlendirme](labs/15-prompt-injection-taint-and-tool-routing/notes.tr.md)
+- [Gün 16 — RAG Access Control And Tenant Isolation](labs/16-rag-access-control-and-tenant-isolation/notes.tr.md)
+- [Gün 17 — LLM Output Redaction And Secret Leakage](labs/17-llm-output-redaction-and-secret-leakage/notes.tr.md)
+- [Ek çalışma — Gün 17 — Tool Output Prompt Injection And Trust Boundaries](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.tr.md)
+- [Gün 18 — Tool Call Argument Schema Validation](labs/18-tool-call-argument-schema-validation/notes.tr.md)
+- [Gün 19 — Object Level Authorization For Tool Calls](labs/19-object-level-authorization-for-tool-calls/notes.tr.md)
+- [Gün 20 — Model Output Rendering Safety](labs/20-model-output-rendering-safety/notes.tr.md)
+- [Gün 21 — Guardrail Regression Sets And Precision Recall](labs/21-guardrail-regression-sets-and-precision-recall/notes.tr.md)
+- [Gün 22 — Canary Tokens And System Prompt Leak Detection](labs/22-canary-tokens-and-system-prompt-leak-detection/notes.tr.md)
+- [Gün 23 — Rate Limiting And Cost Abuse For LLM Endpoints](labs/23-rate-limiting-and-cost-abuse-for-llm-endpoints/notes.tr.md)
+- [Gün 24 — PII Detection And Masking Before Logging](labs/24-pii-detection-and-masking-before-logging/notes.tr.md)
+- [Gün 25 — Allowlisted URL Fetch Tools For Agents](labs/25-allowlisted-url-fetch-tools-for-agents/notes.tr.md)
+- [Gün 26 — Model And Config Pinning With Drift Checks](labs/26-model-and-config-pinning-with-drift-checks/notes.tr.md)
+- [Gün 27 — Refusal And Safe Failure Regression Tests](labs/27-refusal-and-safe-failure-regression-tests/notes.tr.md)
+- [Gün 28 — Tool Output Truncation And Data Wrapping](labs/28-tool-output-truncation-and-data-wrapping/notes.tr.md)
+- [Gün 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.tr.md)
+- [Gün 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -134,6 +152,3 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 - **Day 30 — Agent Memory Write Policy and Poisoning Checks**
 - [English notes](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md) · [Türkçe notlar](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md) · [Practical exercise](labs/30-agent-memory-write-policy-and-poisoning-checks/memory_policy_demo.py)
 
-### Day 17 — Tool Output Prompt Injection
-
-[English notes](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.md) · [Türkçe notlar](labs/17-tool-output-prompt-injection-and-trust-boundaries/notes.tr.md) · [Offline Python demo](labs/17-tool-output-prompt-injection-and-trust-boundaries/tool_output_boundary_demo.py)
