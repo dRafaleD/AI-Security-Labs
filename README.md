@@ -131,5 +131,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 29 — Context Trimming and System Prompt Preservation**
-- [English notes](labs/29-context-trimming-and-system-prompt-preservation/notes.md) · [Türkçe notlar](labs/29-context-trimming-and-system-prompt-preservation/notes.tr.md) · [Practical exercise](labs/29-context-trimming-and-system-prompt-preservation/trim_demo.py)
+- **Day 30 — Agent Memory Write Policy and Poisoning Checks**
+- [English notes](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md) · [Türkçe notlar](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md) · [Practical exercise](labs/30-agent-memory-write-policy-and-poisoning-checks/memory_policy_demo.py)
