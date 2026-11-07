@@ -41,6 +41,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 28 — Tool Output Truncation And Data Wrapping](labs/28-tool-output-truncation-and-data-wrapping/notes.md)
 - [Day 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.md)
 - [Day 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md)
+- [Day 31 — Tool Approval Expiry and Argument Binding](labs/31-tool-approval-expiry-and-argument-binding/notes.md)
 
 ## Learning path
 
@@ -112,6 +113,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 28 — Tool Output Truncation And Data Wrapping](labs/28-tool-output-truncation-and-data-wrapping/notes.tr.md)
 - [Gün 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.tr.md)
 - [Gün 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md)
+- [Gün 31 — Araç Onayı Süresi ve Parametre Bağlama](labs/31-tool-approval-expiry-and-argument-binding/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -149,6 +151,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 30 — Agent Memory Write Policy and Poisoning Checks**
-- [English notes](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md) · [Türkçe notlar](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md) · [Practical exercise](labs/30-agent-memory-write-policy-and-poisoning-checks/memory_policy_demo.py)
-
+- **Day 31 — Tool Approval Expiry and Argument Binding**
+- [English notes](labs/31-tool-approval-expiry-and-argument-binding/notes.md) · [Türkçe notlar](labs/31-tool-approval-expiry-and-argument-binding/notes.tr.md) · [Practical exercise](labs/31-tool-approval-expiry-and-argument-binding/approval_demo.py)
