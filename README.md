@@ -42,6 +42,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.md)
 - [Day 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md)
 - [Day 31 — Tool Approval Expiry and Argument Binding](labs/31-tool-approval-expiry-and-argument-binding/notes.md)
+- [Day 32 — Agent Plans and Stepwise Authorization](labs/32-agent-plans-and-stepwise-authorization/notes.md)
 
 ## Learning path
 
@@ -114,6 +115,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 29 — Context Trimming And System Prompt Preservation](labs/29-context-trimming-and-system-prompt-preservation/notes.tr.md)
 - [Gün 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md)
 - [Gün 31 — Araç Onayı Süresi ve Parametre Bağlama](labs/31-tool-approval-expiry-and-argument-binding/notes.tr.md)
+- [Gün 32 — Yapay Zekâ Ajanı Planı ve Her Adımda Yetkilendirme](labs/32-agent-plans-and-stepwise-authorization/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -151,5 +153,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 31 — Tool Approval Expiry and Argument Binding**
-- [English notes](labs/31-tool-approval-expiry-and-argument-binding/notes.md) · [Türkçe notlar](labs/31-tool-approval-expiry-and-argument-binding/notes.tr.md) · [Practical exercise](labs/31-tool-approval-expiry-and-argument-binding/approval_demo.py)
+- **Day 32 — Agent Plans and Stepwise Authorization**
+- [English notes](labs/32-agent-plans-and-stepwise-authorization/notes.md) · [Türkçe notlar](labs/32-agent-plans-and-stepwise-authorization/notes.tr.md) · [Practical exercise](labs/32-agent-plans-and-stepwise-authorization/plan_guard_demo.py)
