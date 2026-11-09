@@ -43,6 +43,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.md)
 - [Day 31 — Tool Approval Expiry and Argument Binding](labs/31-tool-approval-expiry-and-argument-binding/notes.md)
 - [Day 32 — Agent Plans and Stepwise Authorization](labs/32-agent-plans-and-stepwise-authorization/notes.md)
+- [Day 33 — Agent Tool Budgets and Fail-Closed Controls](labs/33-agent-tool-budgets-and-fail-closed-controls/notes.md)
 
 ## Learning path
 
@@ -116,6 +117,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 30 — Agent Memory Write Policy And Poisoning Checks](labs/30-agent-memory-write-policy-and-poisoning-checks/notes.tr.md)
 - [Gün 31 — Araç Onayı Süresi ve Parametre Bağlama](labs/31-tool-approval-expiry-and-argument-binding/notes.tr.md)
 - [Gün 32 — Yapay Zekâ Ajanı Planı ve Her Adımda Yetkilendirme](labs/32-agent-plans-and-stepwise-authorization/notes.tr.md)
+- [Gün 33 — Ajan Araç Bütçeleri ve Güvenli Ret](labs/33-agent-tool-budgets-and-fail-closed-controls/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -153,5 +155,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 32 — Agent Plans and Stepwise Authorization**
-- [English notes](labs/32-agent-plans-and-stepwise-authorization/notes.md) · [Türkçe notlar](labs/32-agent-plans-and-stepwise-authorization/notes.tr.md) · [Practical exercise](labs/32-agent-plans-and-stepwise-authorization/plan_guard_demo.py)
+- **Day 33 — Agent Tool Budgets and Fail-Closed Controls**
+- [English notes](labs/33-agent-tool-budgets-and-fail-closed-controls/notes.md) · [Türkçe notlar](labs/33-agent-tool-budgets-and-fail-closed-controls/notes.tr.md) · [Practical exercise](labs/33-agent-tool-budgets-and-fail-closed-controls/budget_guard_demo.py)
