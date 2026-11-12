@@ -43,7 +43,7 @@ def main() -> None:
     assert unsafe_top_k_then_filter("alpha", {"readers"}, 1) == []
     # A retrieval result containing an instruction is still untrusted data.
     assert "IGNORE PREVIOUS" in reader[1].text
-    print("7/7 ACL and ranking assertions passed.")
+    print("8/8 ACL and ranking assertions passed.")
     print("Warning: ranked citations alone do not prove claim support.")
 
 if __name__ == "__main__":
