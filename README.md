@@ -47,6 +47,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 34 — Agent Tool Output Budgets and Untrusted Data](labs/34-agent-tool-output-budgets-and-untrusted-data/notes.md)
 - [Day 35 — Agent Citations, Provenance and Source Scope](labs/35-agent-citation-provenance-and-source-scope/notes.md)
 - [Day 36 — RAG Retrieval ACLs Before Ranking](labs/36-rag-retrieval-acl-before-ranking/notes.md)
+- [Day 37 — RAG Cache Isolation and Access Revocation](labs/37-rag-cache-isolation-and-access-revocation/notes.md)
 
 ## Learning path
 
@@ -124,6 +125,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 34 — Araç Çıktısı Bütçesi ve Güvenilmeyen Veri](labs/34-agent-tool-output-budgets-and-untrusted-data/notes.tr.md)
 - [Gün 35 — Ajan Kaynak Atfı ve Belge Yetki Kapsamı](labs/35-agent-citation-provenance-and-source-scope/notes.tr.md)
 - [Gün 36 — RAG Sıralamasından Önce Erişim Kontrolü](labs/36-rag-retrieval-acl-before-ranking/notes.tr.md)
+- [Gün 37 — RAG Önbelleği ve Erişim İptali](labs/37-rag-cache-isolation-and-access-revocation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -161,5 +163,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 36 — RAG Retrieval ACLs Before Ranking**
-- [English notes](labs/36-rag-retrieval-acl-before-ranking/notes.md) · [Türkçe notlar](labs/36-rag-retrieval-acl-before-ranking/notes.tr.md) · [Practical exercise](labs/36-rag-retrieval-acl-before-ranking/rag_acl_demo.py)
+- **Day 37 — RAG Cache Isolation and Access Revocation**
+- [English notes](labs/37-rag-cache-isolation-and-access-revocation/notes.md) · [Türkçe notlar](labs/37-rag-cache-isolation-and-access-revocation/notes.tr.md) · [Practice](labs/37-rag-cache-isolation-and-access-revocation/cache_acl_demo.py)
