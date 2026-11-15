@@ -48,6 +48,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 35 — Agent Citations, Provenance and Source Scope](labs/35-agent-citation-provenance-and-source-scope/notes.md)
 - [Day 36 — RAG Retrieval ACLs Before Ranking](labs/36-rag-retrieval-acl-before-ranking/notes.md)
 - [Day 37 — RAG Cache Isolation and Access Revocation](labs/37-rag-cache-isolation-and-access-revocation/notes.md)
+- [Day 38 — RAG Cache TTL, Document Versions and Revocation](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.md)
 
 ## Learning path
 
@@ -126,6 +127,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 35 — Ajan Kaynak Atfı ve Belge Yetki Kapsamı](labs/35-agent-citation-provenance-and-source-scope/notes.tr.md)
 - [Gün 36 — RAG Sıralamasından Önce Erişim Kontrolü](labs/36-rag-retrieval-acl-before-ranking/notes.tr.md)
 - [Gün 37 — RAG Önbelleği ve Erişim İptali](labs/37-rag-cache-isolation-and-access-revocation/notes.tr.md)
+- [Gün 38 — RAG Cache TTL, Belge Sürümleri ve Yetki İptali](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -163,5 +165,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 37 — RAG Cache Isolation and Access Revocation**
-- [English notes](labs/37-rag-cache-isolation-and-access-revocation/notes.md) · [Türkçe notlar](labs/37-rag-cache-isolation-and-access-revocation/notes.tr.md) · [Practice](labs/37-rag-cache-isolation-and-access-revocation/cache_acl_demo.py)
+- **Day 38 — RAG Cache TTL, Document Versions and Revocation**
+- [English notes](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.md) · [Türkçe notlar](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.tr.md) · [Python exercise](labs/38-rag-cache-ttl-document-versions-and-revocation/rag_cache_demo.py)
