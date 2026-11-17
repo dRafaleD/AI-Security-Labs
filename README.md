@@ -50,6 +50,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 37 — RAG Cache Isolation and Access Revocation](labs/37-rag-cache-isolation-and-access-revocation/notes.md)
 - [Day 38 — RAG Cache TTL, Document Versions and Revocation](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.md)
 - [Day 39 — RAG Cache Integrity and Untrusted Content](labs/39-rag-cache-integrity-and-untrusted-content/notes.md)
+- [Day 40 — RAG Evidence-to-Tool Action Approval Boundary](labs/40-rag-evidence-to-tool-action-approval-boundary/notes.md)
 
 ## Learning path
 
@@ -130,6 +131,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 37 — RAG Önbelleği ve Erişim İptali](labs/37-rag-cache-isolation-and-access-revocation/notes.tr.md)
 - [Gün 38 — RAG Cache TTL, Belge Sürümleri ve Yetki İptali](labs/38-rag-cache-ttl-document-versions-and-revocation/notes.tr.md)
 - [Gün 39 — RAG Cache Bütünlüğü ve Güvenilmeyen İçerik](labs/39-rag-cache-integrity-and-untrusted-content/notes.tr.md)
+- [Gün 40 — RAG Verisinden Araç Eylemine Onay Sınırı](labs/40-rag-evidence-to-tool-action-approval-boundary/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -167,5 +169,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 39 — RAG Cache Integrity and Untrusted Content**
-- [English notes](labs/39-rag-cache-integrity-and-untrusted-content/notes.md) · [Türkçe notlar](labs/39-rag-cache-integrity-and-untrusted-content/notes.tr.md) · [Python exercise](labs/39-rag-cache-integrity-and-untrusted-content/cache_integrity_demo.py)
+- **Day 40 — RAG Evidence-to-Tool Action Approval Boundary**
+- [English notes](labs/40-rag-evidence-to-tool-action-approval-boundary/notes.md) · [Türkçe notlar](labs/40-rag-evidence-to-tool-action-approval-boundary/notes.tr.md) · [Python exercise](labs/40-rag-evidence-to-tool-action-approval-boundary/approval_boundary_demo.py)
