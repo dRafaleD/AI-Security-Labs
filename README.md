@@ -55,6 +55,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 42 — Untrusted Tool Results and Authority Laundering](labs/42-untrusted-tool-results-and-no-authority-laundering/notes.md)
 - [Day 43 — Tool-Result Source Binding and Structured Data Validation](labs/43-tool-result-source-binding-and-structured-data-validation/notes.md)
 - [Day 44 — Strict Tool-Result Parsing and Duplicate-Key Defense](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.md)
+- [Day 45 — Tool-Result Budgets and Untrusted-Text Quarantine](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.md)
 
 ## Learning path
 
@@ -140,6 +141,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 42 — Araç Çıktısı Güven Sınırı ve Yetki Aktarma Yanılgısı](labs/42-untrusted-tool-results-and-no-authority-laundering/notes.tr.md)
 - [Gün 43 — Araç Çıktısı Kaynağı ve Şema Doğrulama](labs/43-tool-result-source-binding-and-structured-data-validation/notes.tr.md)
 - [Gün 44 — Araç Çıktısında Katı JSON Ayrıştırma](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.tr.md)
+- [Gün 45 — Araç Çıktısı Bütçesi ve Güvenilmeyen Metin Sınırı](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -177,5 +179,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 44 — Strict Tool-Result Parsing and Duplicate-Key Defense**
-- [English notes](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.md) · [Türkçe notlar](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.tr.md) · [Python exercise](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/strict_result_demo.py)
+- **Day 45 — Tool-Result Budgets and Untrusted-Text Quarantine**
+- [English notes](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.md) · [Türkçe notlar](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.tr.md) · [Python exercise](labs/45-tool-result-budgets-and-untrusted-text-quarantine/result_budget_demo.py)
