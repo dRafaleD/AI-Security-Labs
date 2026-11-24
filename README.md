@@ -57,6 +57,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 44 — Strict Tool-Result Parsing and Duplicate-Key Defense](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.md)
 - [Day 45 — Tool-Result Budgets and Untrusted-Text Quarantine](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.md)
 - [Day 46 — Epoch-Scoped Agent Budgets and Replay Guards](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.md)
+- [Day 47 — Tool-Result Provenance and Approval Separation](labs/47-tool-result-provenance-and-approval-separation/notes.md)
 
 ## Learning path
 
@@ -144,6 +145,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 44 — Araç Çıktısında Katı JSON Ayrıştırma](labs/44-strict-tool-result-parsing-and-duplicate-key-defense/notes.tr.md)
 - [Gün 45 — Araç Çıktısı Bütçesi ve Güvenilmeyen Metin Sınırı](labs/45-tool-result-budgets-and-untrusted-text-quarantine/notes.tr.md)
 - [Gün 46 — AI Araç Kotası, Epoch ve Replay Kontrolü](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.tr.md)
+- [Gün 47 — Araç Sonucu Kaynağı ve Onay Ayrımı](labs/47-tool-result-provenance-and-approval-separation/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -181,5 +183,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 46 — Epoch-Scoped Agent Budgets and Replay Guards**
-- [English notes](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.md) · [Türkçe notlar](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.tr.md) · [Python exercise](labs/46-epoch-scoped-agent-budgets-and-replay-guards/epoch_budget_demo.py)
+- **Day 47 — Tool-Result Provenance and Approval Separation**
+- [English notes](labs/47-tool-result-provenance-and-approval-separation/notes.md) · [Türkçe notlar](labs/47-tool-result-provenance-and-approval-separation/notes.tr.md) · [Python exercise](labs/47-tool-result-provenance-and-approval-separation/approval_boundary.py)
