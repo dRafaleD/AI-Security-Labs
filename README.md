@@ -59,6 +59,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 46 — Epoch-Scoped Agent Budgets and Replay Guards](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.md)
 - [Day 47 — Tool-Result Provenance and Approval Separation](labs/47-tool-result-provenance-and-approval-separation/notes.md)
 - [Day 48 — Practice Day: Agent Data Access Policy](labs/48-agent-data-access-policy-practice/notes.md)
+- [Day 49 — Data Minimization and Output Projection](labs/49-data-minimization-and-output-projection/notes.md)
 
 ## Learning path
 
@@ -148,6 +149,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 46 — AI Araç Kotası, Epoch ve Replay Kontrolü](labs/46-epoch-scoped-agent-budgets-and-replay-guards/notes.tr.md)
 - [Gün 47 — Araç Sonucu Kaynağı ve Onay Ayrımı](labs/47-tool-result-provenance-and-approval-separation/notes.tr.md)
 - [Gün 48 — Uygulama Günü: AI Ajanı Veri Erişim Politikası](labs/48-agent-data-access-policy-practice/notes.tr.md)
+- [Gün 49 — Veri Minimizasyonu ve Çıktı Alanı Kontrolü](labs/49-data-minimization-and-output-projection/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -185,5 +187,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 48 — Practice Day: Agent Data Access Policy**
-- [English notes](labs/48-agent-data-access-policy-practice/notes.md) · [Türkçe notlar](labs/48-agent-data-access-policy-practice/notes.tr.md) · [Python exercise](labs/48-agent-data-access-policy-practice/access_matrix.py)
+- **Day 49 — Data Minimization and Output Projection**
+- [English notes](labs/49-data-minimization-and-output-projection/notes.md) · [Türkçe notlar](labs/49-data-minimization-and-output-projection/notes.tr.md) · [Python exercise](labs/49-data-minimization-and-output-projection/projection_demo.py)
