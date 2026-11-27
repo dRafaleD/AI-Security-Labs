@@ -61,6 +61,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 48 — Practice Day: Agent Data Access Policy](labs/48-agent-data-access-policy-practice/notes.md)
 - [Day 49 — Data Minimization and Output Projection](labs/49-data-minimization-and-output-projection/notes.md)
 - [Day 50 — Output Schema Validation and Safe Abstention](labs/50-output-schema-validation-and-safe-abstention/notes.md)
+- [Day 51 — Structured Claims and Evidence Verification](labs/51-structured-claims-and-evidence-verification/notes.md)
 
 ## Learning path
 
@@ -152,6 +153,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 48 — Uygulama Günü: AI Ajanı Veri Erişim Politikası](labs/48-agent-data-access-policy-practice/notes.tr.md)
 - [Gün 49 — Veri Minimizasyonu ve Çıktı Alanı Kontrolü](labs/49-data-minimization-and-output-projection/notes.tr.md)
 - [Gün 50 — Çıktı Şeması Doğrulama ve Güvenli Çekimserlik](labs/50-output-schema-validation-and-safe-abstention/notes.tr.md)
+- [Gün 51 — Yapılandırılmış İddialar ve Kanıt Doğrulama](labs/51-structured-claims-and-evidence-verification/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -189,5 +191,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 50 — Output Schema Validation and Safe Abstention**
-- [English notes](labs/50-output-schema-validation-and-safe-abstention/notes.md) · [Türkçe notlar](labs/50-output-schema-validation-and-safe-abstention/notes.tr.md) · [Python exercise](labs/50-output-schema-validation-and-safe-abstention/output_gate.py)
+- **Day 51 — Structured Claims and Evidence Verification**
+- [English notes](labs/51-structured-claims-and-evidence-verification/notes.md) · [Türkçe notlar](labs/51-structured-claims-and-evidence-verification/notes.tr.md) · [Python exercise](labs/51-structured-claims-and-evidence-verification/claim_review.py)
