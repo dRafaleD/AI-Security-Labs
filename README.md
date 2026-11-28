@@ -62,6 +62,7 @@ The goal is to understand how modern LLM applications are structured, where trus
 - [Day 49 — Data Minimization and Output Projection](labs/49-data-minimization-and-output-projection/notes.md)
 - [Day 50 — Output Schema Validation and Safe Abstention](labs/50-output-schema-validation-and-safe-abstention/notes.md)
 - [Day 51 — Structured Claims and Evidence Verification](labs/51-structured-claims-and-evidence-verification/notes.md)
+- [Day 52 — Claim Units and Evidence Normalization](labs/52-claim-units-and-evidence-normalization/notes.md)
 
 ## Learning path
 
@@ -154,6 +155,7 @@ Amaç modern LLM uygulamalarının nasıl kurulduğunu, trust boundary'lerin ner
 - [Gün 49 — Veri Minimizasyonu ve Çıktı Alanı Kontrolü](labs/49-data-minimization-and-output-projection/notes.tr.md)
 - [Gün 50 — Çıktı Şeması Doğrulama ve Güvenli Çekimserlik](labs/50-output-schema-validation-and-safe-abstention/notes.tr.md)
 - [Gün 51 — Yapılandırılmış İddialar ve Kanıt Doğrulama](labs/51-structured-claims-and-evidence-verification/notes.tr.md)
+- [Gün 52 — İddia Birimleri ve Kanıt Normalizasyonu](labs/52-claim-units-and-evidence-normalization/notes.tr.md)
 
 ## Öğrenme yolu
 
@@ -191,5 +193,5 @@ AI security çalışmalarını yalnızca sahibi olduğunuz veya test etmek için
 
 ## Latest lab
 
-- **Day 51 — Structured Claims and Evidence Verification**
-- [English notes](labs/51-structured-claims-and-evidence-verification/notes.md) · [Türkçe notlar](labs/51-structured-claims-and-evidence-verification/notes.tr.md) · [Python exercise](labs/51-structured-claims-and-evidence-verification/claim_review.py)
+- **Day 52 — Claim Units and Evidence Normalization**
+- [English notes](labs/52-claim-units-and-evidence-normalization/notes.md) · [Türkçe notlar](labs/52-claim-units-and-evidence-normalization/notes.tr.md) · [Python exercise](labs/52-claim-units-and-evidence-normalization/claim_units.py)
